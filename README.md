@@ -6,11 +6,11 @@ Clone repository into desired folder.
    - cd ~/User/Documents/tic_tac_toe
    - git clone https://github.com/spj456/reactTacToe.git
 
-cd into folder created.
+Change directory into folder created.
    - cd reactTacToe
 
-run npm install.
+Run "npm install".
 
-run npm start.
+Run "npm start".
 
 Now you can play two player tic-tac-toe!
